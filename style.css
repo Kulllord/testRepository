@@ -1,0 +1,15 @@
+/* bla bla bla comment*/
+#masthead {
+	color: #ffdead;
+}
+
+#footer {
+	color: #0000ff;
+}
+@media (max-width: 500px) {
+	#footer {
+		width: 500px;
+	}
+}
+
+/*# sourceMappingURL=style.css.map */
